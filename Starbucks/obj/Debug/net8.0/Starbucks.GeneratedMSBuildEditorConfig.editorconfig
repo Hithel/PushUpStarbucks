@@ -1,0 +1,63 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Starbucks
+build_property.RootNamespace = Starbucks
+build_property.ProjectDir = C:\Users\user\Documents\PushUpStarbucks\Starbucks\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\Documents\PushUpStarbucks\Starbucks
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Pages/P2.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUDIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Pages/P3.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUDMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-zxav3bdxoa
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-28imtcbnvq
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Models/MenuBebida.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxzXE1lbnVCZWJpZGEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-jgl9ij0h20
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Models/MenuSocialMedia.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxzXE1lbnVTb2NpYWxNZWRpYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-zr82v94tg4
+
+[C:/Users/user/Documents/PushUpStarbucks/Starbucks/Models/NavBar.razor]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxzXE5hdkJhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-smwxdgo5nv
